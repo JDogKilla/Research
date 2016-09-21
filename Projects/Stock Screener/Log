@@ -1,0 +1,13 @@
+Screener - 9/20
+- use matPlot for graphs 
+- found few open source stock data sources
+^ need to figure out how implement these + manage cost
+-- Quandyl - lower quality stock data base - https://www.quandl.com/tools/python
+-- IQFeed - higher quality dBase, prefered, find out costs - http://www.iqfeed.net/
+- found TA - LIb with stock indicator ?functions? - http://ta-lib.org/index.html
+- What is "R" and CRAN? find out for "Quantmod" >> https://cran.r-project.org/web/packages/quantmod/quantmod.pdf
+
+- Py screener tutorial, using Yahoo - https://pythonprogramming.net/advanced-matplotlib-graphing-charting-tutorial/
+- Coding Bat, Maps > maybe use for holding 
+- CSV files is better way to store data
+- Investor's underground?
