@@ -227,4 +227,3 @@ def graphData(stock, MA1, MA2):
 while True:
     stock = input('Stock to plot: ')
     graphData(stock, 10, 50)
-
